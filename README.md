@@ -1,21 +1,53 @@
-This repository showcases projects focused on data cleaning, transformation, and visualization using tools commonly used in modern data workflows.
+# Yohannes Getahun — Data Analyst Portfolio
 
-The goal of these projects is to demonstrate practical skills in turning raw data into meaningful insights through structured data preparation and clear visual reporting.
+Aspiring data analyst based in Addis Ababa, Ethiopia, with a BSc in Business Administration & Management (Honors). 
+I specialize in turning raw, messy data into clear business insights using SQL, Power BI, and Excel.
 
-Tools & Technologies
-- Microsoft Excel
-- Power Query
-- Power BI
-- Data Cleaning & Transformation
-- Data Visualization
-- Basic Data Modeling
+---
 
-What You’ll Find in This Repository
-- Data cleaning workflows and techniques
-- Structured datasets prepared for analysis
-- Interactive Power BI dashboards
-- Examples of transforming messy data into usable formats
-- Visual reports that highlight trends and insights
+## 🛠 Tools & Skills
 
-Purpose
-This portfolio is part of my continuous learning journey in data analysis, business intelligence, and data-driven problem solving. Each project focuses on improving practical skills in working with real-world datasets and building clear, effective dashboards
+| Tool | Level |
+|------|-------|
+| Microsoft Excel | Advanced |
+| Power BI | Intermediate |
+| MySQL | Intermediate |
+| Power Query | Intermediate |
+| Data Cleaning & Transformation | Strong |
+| Business Analysis & Reporting | Strong |
+
+---
+
+## 📁 Projects
+
+### Project 1 — [Data Cleaning & Visualization](./project-1-data-cleaning)
+**Tools:** Excel · Power Query · Power BI  
+A data cleaning and visualization project focused on transforming raw data into structured, 
+reportable formats using Power Query and Power BI dashboards.
+
+---
+
+### Project 2 — [Bank Loan Default Analysis](./project-2-bank-loan-analysis)
+**Tools:** MySQL · Power BI · Excel  
+**Dataset:** 100,514 real loan records  
+
+Analyzed a large banking dataset to identify key drivers of loan defaults.
+
+**What I did:**
+- Imported and cleaned 100,514 rows of loan data in MySQL
+- Identified and fixed a data quality issue where credit scores were stored at 10x their actual value
+- Wrote SQL queries using GROUP BY, CASE WHEN, subqueries, JOINs, and window functions
+- Built an interactive Power BI dashboard with slicers, KPI cards, and cross-filtering
+
+**Key Insights:**
+- 22.6% overall loan default rate across the portfolio
+- Small business loans carry the highest default risk at 42%
+- Poor credit borrowers default at 35% vs only 6% for excellent credit borrowers
+- Debt Consolidation dominates the portfolio (78% of loans) at a 22.8% default rate
+
+---
+
+## 📬 Contact
+- **LinkedIn:** https://www.linkedin.com/in/yohannes-getahun-4764593b0/
+- **Email:** yohannesgetahunyg@gmail.com
+- **Location:** Addis Ababa, Ethiopia
