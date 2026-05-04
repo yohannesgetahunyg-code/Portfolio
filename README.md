@@ -1,6 +1,6 @@
 # Yohannes Getahun — Data Analyst Portfolio
 
-Aspiring data analyst based in Addis Ababa, Ethiopia, with a BSc in Business Administration & Management (Honors). 
+Aspiring data analyst based in Addis Ababa, Ethiopia, with a B.A. in Business Administration & Management (Honors). 
 I specialize in turning raw, messy data into clear business insights using SQL, Power BI, and Excel.
 
 ---
