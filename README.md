@@ -18,6 +18,11 @@ I specialize in turning raw, messy data into clear business insights using SQL, 
 
 ---
 
+## 🏆 Certifications
+- Career Essentials in Business Analysis — Microsoft & LinkedIn Learning (Apr 2026)
+
+---
+
 ## 📁 Projects
 
 ### Project 1 — [Data Cleaning & Visualization](./project-1-data-cleaning)
