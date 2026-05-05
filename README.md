@@ -52,6 +52,14 @@ Analyzed a large banking dataset to identify key drivers of loan defaults.
 
 ---
 
+### Project 3 — [Personal Finance Tracker](./project-3-personal-finance-tracker)
+**Tools:** Excel · Power BI  
+
+Built a fully functional personal finance tracker from scratch with budget vs actual analysis, conditional formatting, and 
+an interactive Power BI dashboard showing spending trends and category breakdowns.
+
+---
+
 ## 📬 Contact
 - **LinkedIn:** https://www.linkedin.com/in/yohannes-getahun-4764593b0/
 - **Email:** yohannesgetahunyg@gmail.com
